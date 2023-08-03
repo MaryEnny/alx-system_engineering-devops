@@ -1,0 +1,2 @@
+shell permissions
+sript writing
